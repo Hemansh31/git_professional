@@ -4,5 +4,6 @@ This Repository is my implementation and summary of the book [ProGit](https://gi
 
 The Repository is structured as follows :
 
-1. The why, what and how of Version Control System.
-   1. Why Version Control
+1. Getting Started
+
+2. Git Internals Basics
